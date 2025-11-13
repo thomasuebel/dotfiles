@@ -1,0 +1,19 @@
+[user]
+	name = Thomas Uebel
+	email = thomas.uebel@misterspex.de
+	signingkey = 6C7F8BFA5ECA802848CFAA76D3C3198A28D3D239
+[commit]
+	gpgsign = true
+[push]
+	autoSetupRemote = true
+
+[core]
+  editor = code --wait
+[diff]
+  tool = vscode
+[difftool "vscode"]
+  cmd = code --wait --diff $LOCAL $REMOTE
+[merge]
+  tool = vscode
+[mergetool "vscode"]
+  cmd = code --wait $MERGED

@@ -1,6 +1,7 @@
 brew "chezmoi"
 brew "git"
 brew "gnupg"
+brew "lazygit"
 brew "neovim"
 brew "stow"
 cask "font-iosevka"

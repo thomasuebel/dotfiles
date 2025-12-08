@@ -46,3 +46,4 @@ theme = "Catppuccin Frappe"
 font-size = 18
 cursor-style = "underline"
 shell-integration-features = "no-cursor"
+keybind = shift+enter=text:\x1b\r

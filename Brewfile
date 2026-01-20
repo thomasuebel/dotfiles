@@ -1,4 +1,5 @@
 brew "chezmoi"
+brew "deno"
 brew "git"
 brew "gnupg"
 brew "lazygit"

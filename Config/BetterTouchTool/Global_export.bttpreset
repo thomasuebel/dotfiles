@@ -1,0 +1,16 @@
+[
+  {
+    "BTTAppBundleIdentifier" : "BT.G",
+    "BTTAppName" : "Global",
+    "BTTAppAutoInvertIcon" : 1,
+    "BTTTriggers" : [
+      {
+        "BTTLastUpdatedAt" : 1775721918.1828771,
+        "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+        "BTTUUID" : "E7821426-3BCA-4F8C-9830-A9B44925ACC8",
+        "BTTOrder" : 0,
+        "BTTMergeIntoTouchBarGroups" : 0
+      }
+    ]
+  }
+]
